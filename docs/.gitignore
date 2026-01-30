@@ -1,0 +1,30 @@
+# === Archivos de Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Entornos virtuales ===
+venv/
+env/
+.venv/
+
+# === Variables de entorno (datos sensibles) ===
+.env
+.env.local
+
+# === Archivos del sistema operativo ===
+.DS_Store
+Thumbs.db
+
+# === Configuración de editores ===
+.vscode/
+.idea/
+
+# === Logs ===
+*.log
+
+# === Archivos temporales ===
+*.tmp
+*.temp
+
