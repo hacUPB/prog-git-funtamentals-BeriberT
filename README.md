@@ -15,9 +15,9 @@ Para obtener una copia del proyecto en tu computador, ejecuta el siguiente coman
 
 
 [archivo .gitignore](./docs/Archivo_gitignore.md)
-[archivo .gitignore](./docs/repositorio_local.md)
-[archivo .gitignore](./docs/repositorio_remoto.md)
-[archivo .gitignore](./docs/uso_consola.md)
+[archivo repositorio local](./docs/repositorio_local.md)
+[archivo repositorio repomoto](./docs/repositorio_remoto.md)
+[archivo uso de consola](./docs/uso_consola.md)
 
 
 
