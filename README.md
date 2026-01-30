@@ -1,3 +1,26 @@
+# 📌 Repositorio de Aprendizaje de Git y Consola
+
+## 📖 Descripción del repositorio
+Este repositorio contiene ejercicios, apuntes y ejemplos prácticos sobre el uso de la **consola de comandos**, **Git** y **GitHub**.  
+El objetivo es aprender a navegar por directorios, crear archivos y carpetas, gestionar repositorios locales y remotos, y documentar proyectos usando archivos Markdown.
+
+El repositorio incluye documentación en la carpeta `docs`, donde se explican los conceptos vistos durante la unidad.
+
+---
+
+## 🚀 Clonar y ejecutar el proyecto
+
+### 1️⃣ Clonar el repositorio
+Para obtener una copia del proyecto en tu computador, ejecuta el siguiente comando en la consola:
+
+
+[archivo .gitignore](./docs/Archivo_gitignore.md)
+[archivo .gitignore](./docs/repositorio_local.md)
+[archivo .gitignore](./docs/repositorio_remoto.md)
+[archivo .gitignore](./docs/uso_consola.md)
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C6PSew_P)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
